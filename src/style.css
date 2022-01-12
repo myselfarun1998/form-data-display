@@ -1,0 +1,58 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.border {
+  border: 2px solid black;
+  padding-left: 20px;
+  margin-top: 20px;
+  background-color: cornsilk;
+  border-radius: 12px;
+}
+input {
+  margin-left: 20px;
+  margin-top: 10px;
+  display: inline;
+  border-color: green;
+  padding-top: 10px;
+  border: 1px solid blue;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+
+button {
+  margin-top: 19px;
+  background-color: rgba(17, 209, 49, 0.658);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 20px 40px;
+  color: black;
+  border: none;
+  align-items: center;
+  margin-left: 90px;
+  border-radius: 10px;
+}
+.txt {
+  margin-left: 35px;
+}
+form{
+  border: 1px solid black;
+  margin-left: 40%;
+  margin-top: 10%;
+  margin-right: 30%;
+  padding-left: 5%;
+  
+  padding-top: 5%;
+  padding-bottom: 5%;
+  
+ 
+  
+}
+
+h2{
+  position: absolute;
+ margin-left: 46%;
+
+}
